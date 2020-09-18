@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,16 +10,31 @@ namespace QuestionPractice
     {
         static void Main(string[] args)
         {
-            int yob;
-            int mob;
-            int dob;
-            Console.WriteLine("Enter the year of your birth");
-            yob = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the month of your birth");
-            mob = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the date of your birth");
-            dob = Convert.ToInt32(Console.ReadLine());
-            int rCode = CheckTheBirthDate(yob, mob, dob);
+            int yob=0;
+            int mob=0;
+            int dob=0;
+            
+
+            try
+            {
+                Console.WriteLine("Enter the year of your birth");
+                yob = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter the month of your birth");
+                mob = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter the date of your birth");
+                dob = Convert.ToInt32(Console.ReadLine());
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+
+            }
+
+           int rCode = CheckTheBirthDate( yob,mob,dob);
+
+
 
 
 
@@ -256,6 +271,12 @@ namespace QuestionPractice
         }
     }
 }
+
+
+
+
+
+
 
 
 
