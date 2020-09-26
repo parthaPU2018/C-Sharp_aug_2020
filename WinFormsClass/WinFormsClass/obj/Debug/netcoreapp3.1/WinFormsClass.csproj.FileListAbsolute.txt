@@ -1,0 +1,16 @@
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\bin\Debug\netcoreapp3.1\WinFormsClass.exe
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\bin\Debug\netcoreapp3.1\WinFormsClass.deps.json
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\bin\Debug\netcoreapp3.1\WinFormsClass.runtimeconfig.json
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\bin\Debug\netcoreapp3.1\WinFormsClass.runtimeconfig.dev.json
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\bin\Debug\netcoreapp3.1\WinFormsClass.dll
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\bin\Debug\netcoreapp3.1\WinFormsClass.pdb
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.csprojAssemblyReference.cache
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.Form1.resources
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.csproj.GenerateResource.cache
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.AssemblyInfoInputs.cache
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.AssemblyInfo.cs
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.csproj.CoreCompileInputs.cache
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.dll
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.pdb
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.genruntimeconfig.cache
+C:\Users\rijuc\source\repos\WinFormsClass\WinFormsClass\obj\Debug\netcoreapp3.1\WinFormsClass.Form2.resources
