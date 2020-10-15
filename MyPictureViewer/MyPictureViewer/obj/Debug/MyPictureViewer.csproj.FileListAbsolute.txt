@@ -1,0 +1,10 @@
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\bin\Debug\MyPictureViewer.exe.config
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\bin\Debug\MyPictureViewer.exe
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\bin\Debug\MyPictureViewer.pdb
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.csprojAssemblyReference.cache
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.Form1.resources
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.Properties.Resources.resources
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.csproj.GenerateResource.cache
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.exe
+C:\Users\rijuc\source\repos\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.pdb
